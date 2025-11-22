@@ -194,14 +194,3 @@ You can submit issues, feature requests, or pull requests to improve functionali
 ## License
 
 This project is released under the MIT License. You may use, modify, and distribute it freely under the license terms.
-
----
-
-If you want, I can also create:
-
-* A full badge section (Python version, license, build status, etc.)
-* A professional project logo
-* A "Getting Started" tutorial section
-* A GIF demo for the README
-
-Just tell me.
